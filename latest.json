@@ -1,0 +1,31 @@
+{
+    "version":  "1.1.0",
+    "notes":  "New: Zero-OOM Large-File Khmer STT \u0026 Multi-Hour Streaming - Pause-snapped 2-minute disk-sliced transcription for 100 MB to 4 GB+ recordings, forced Khmer anti-hallucination conditioning, live progressive segment streaming, and cross-window speaker diarization.\nNew: Dual-CDN OTA Auto-Update \u0026 Silent Background Installer - Cryptographically signed online update checks with dual-CDN failover, live MB/s background pre-downloads, 1-click silent NSIS (/S /UPDATE) \u0026 macOS (.dmg/.app) upgrades, and automatic app relaunch.\nImproved: Khmer Zero-Shot Voice Cloning \u0026 Hot-Synced AI Servers - VoxCPM2 Khmer syllable anti-babble guard plus automatic hot-upgrade of local Python engine scripts without re-downloading multi-GB AI models.\nImproved: Local Agent-to-Agent REST API (:8799) \u0026 9-Engine Offline Auto-Discovery - Streamlined automation API, subtitle burn-in presets, and instant multi-drive AI model connection.",
+    "pub_date":  "2026-11-16T09:16:38Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFdWKzZCR0RBTUVlcFBOTTNDL0lsL0RWWEE2UmJPTHY5M2RvWTRISy9KQ0QvWmxvU2hZVEJ5cnNVYlJaMzVreEsrZjczZm5uOFNSK0dWZ3NNcEZQOWkzV1c4b1ExL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNTk1CWZpbGU6UHJvZmVzc29yLVNvbWxlbmctVFRTXzEuMS4wXzY0Yml0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wCnFwQUQ2TWczVlg2SUNFMjZCclVSWVJ3T3BjYWIwczF6QVBvSjJ6WVNIN1U0cldBUndtcW1INWc1NzVUYkpzVWJQQ2VOM2ROY1owS2lWaVZLWEpoR0N3PT0K",
+                                             "url":  "https://github.com/sorithya/professor-somleng-tts-releases/releases/download/v1.1.0/Professor-Somleng-TTS_1.1.0_64bit-setup.exe"
+                                         },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFdWKzZCR0RBTUVlcFBOTTNDL0lsL0RWWEE2UmJPTHY5M2RvWTRISy9KQ0QvWmxvU2hZVEJ5cnNVYlJaMzVreEsrZjczZm5uOFNSK0dWZ3NNcEZQOWkzV1c4b1ExL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNTk1CWZpbGU6UHJvZmVzc29yLVNvbWxlbmctVFRTXzEuMS4wXzY0Yml0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wCnFwQUQ2TWczVlg2SUNFMjZCclVSWVJ3T3BjYWIwczF6QVBvSjJ6WVNIN1U0cldBUndtcW1INWc1NzVUYkpzVWJQQ2VOM2ROY1owS2lWaVZLWEpoR0N3PT0K",
+                                                  "url":  "https://github.com/sorithya/professor-somleng-tts-releases/releases/download/v1.1.0/Professor-Somleng-TTS_1.1.0_64bit-setup.exe"
+                                              },
+                      "windows-i686":  {
+                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFdWKzZCR0RBTUZDYjhwOGxhRTkzL2V6QXl2dlVHSXpQUGdyNWMyWENUQTBuRjBnOXJLVVd6WHJOdTh0V0xhSldHUWlub3RkOEx2QU5rMDJBQkRKY21scWF5bHNhbnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNTk3CWZpbGU6UHJvZmVzc29yLVNvbWxlbmctVFRTXzEuMS4wXzMyYml0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wCkVoS0dZZUMydjdZeXNMaDBldnJnbXdobk1reUVvK2xNL0dqWU45RlZhMjNIc055ZXhUMktPaWJIWmZpd0NMWmg0RWZ2UGZ4N3BmRlRGWm5NcnE2bkFRPT0K",
+                                           "url":  "https://github.com/sorithya/professor-somleng-tts-releases/releases/download/v1.1.0/Professor-Somleng-TTS_1.1.0_32bit-setup.exe"
+                                       },
+                      "windows-i686-nsis":  {
+                                                "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFdWKzZCR0RBTUZDYjhwOGxhRTkzL2V6QXl2dlVHSXpQUGdyNWMyWENUQTBuRjBnOXJLVVd6WHJOdTh0V0xhSldHUWlub3RkOEx2QU5rMDJBQkRKY21scWF5bHNhbnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNTk3CWZpbGU6UHJvZmVzc29yLVNvbWxlbmctVFRTXzEuMS4wXzMyYml0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wCkVoS0dZZUMydjdZeXNMaDBldnJnbXdobk1reUVvK2xNL0dqWU45RlZhMjNIc055ZXhUMktPaWJIWmZpd0NMWmg0RWZ2UGZ4N3BmRlRGWm5NcnE2bkFRPT0K",
+                                                "url":  "https://github.com/sorithya/professor-somleng-tts-releases/releases/download/v1.1.0/Professor-Somleng-TTS_1.1.0_32bit-setup.exe"
+                                            },
+                      "darwin-aarch64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFdWKzZCR0RBTVBaLy9GK0hHdzVoVCtPbjdBUDBOSFRvbzdYSHpZUExJTC8xMEpGSk1WdXRqempxdk1ySWRpNGw5TkQ2elN3Ym9nZU1FTStuUFVQbUNEUHFxMWEwckE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNTk4CWZpbGU6UHJvZmVzc29yLVNvbWxlbmctVFRTXzEuMS4wX01hY09TLmRtZwl2ZXJzaW9uOjEuMS4wCm1EeVQveGhYVXpoRkFMQ0FpUjhKcUlWdTVQV3ZPR1lIQnl4M0Z3dkNKU2tqL2VHL2w5U0VvdEd2R2EyTFVMbGRNNWMvTSszMzA5WjRYekl4VEFPMkRBPT0K",
+                                             "url":  "https://github.com/sorithya/professor-somleng-tts-releases/releases/download/v1.1.0/Professor-Somleng-TTS_1.1.0_MacOS.dmg"
+                                         },
+                      "darwin-x86_64":  {
+                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFdWKzZCR0RBTVBaLy9GK0hHdzVoVCtPbjdBUDBOSFRvbzdYSHpZUExJTC8xMEpGSk1WdXRqempxdk1ySWRpNGw5TkQ2elN3Ym9nZU1FTStuUFVQbUNEUHFxMWEwckE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNTk4CWZpbGU6UHJvZmVzc29yLVNvbWxlbmctVFRTXzEuMS4wX01hY09TLmRtZwl2ZXJzaW9uOjEuMS4wCm1EeVQveGhYVXpoRkFMQ0FpUjhKcUlWdTVQV3ZPR1lIQnl4M0Z3dkNKU2tqL2VHL2w5U0VvdEd2R2EyTFVMbGRNNWMvTSszMzA5WjRYekl4VEFPMkRBPT0K",
+                                            "url":  "https://github.com/sorithya/professor-somleng-tts-releases/releases/download/v1.1.0/Professor-Somleng-TTS_1.1.0_MacOS.dmg"
+                                        }
+                  }
+}
